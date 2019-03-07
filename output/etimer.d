@@ -1,0 +1,11 @@
+..\output\etimer.o: ..\contiki\core\sys\etimer.c
+..\output\etimer.o: ..\user\contiki-conf.h
+..\output\etimer.o: D:\MDK514\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\etimer.o: ..\contiki\core\sys/etimer.h
+..\output\etimer.o: ..\contiki\core\sys/timer.h
+..\output\etimer.o: ..\contiki\core\sys/clock.h
+..\output\etimer.o: ..\contiki\core\sys/process.h
+..\output\etimer.o: ..\contiki\core\sys/pt.h
+..\output\etimer.o: ..\contiki\core\sys/lc.h
+..\output\etimer.o: ..\contiki\core\sys/lc-switch.h
+..\output\etimer.o: ..\contiki\core\sys/cc.h
